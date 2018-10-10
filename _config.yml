@@ -5,7 +5,7 @@ url: "https://jlinGG.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Elephantidae
+  title: Giraffa
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -13,9 +13,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Elephantidae</p>
+     <p>Giraffa</p>
 
-     <p>An elephant never forgets, so my git remembers everything</p>
+     <p>Evolution is so creative. That's how we got giraffes.  -Kurt Vonnegut</p>
   header_text_feature_image: assets/img/judah-legge-242045-unsplash.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
