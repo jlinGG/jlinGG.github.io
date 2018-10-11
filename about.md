@@ -12,7 +12,7 @@ Welcome to my blog, where I write about the data things that I am doing and lear
 
 > Evolution is so creative. That's how we got giraffes.
 >
-> &mdash; <cite> Kurt Vonnegut [_A Man Without a Country_](https://www.amazon.com/Man-Without-Country-Kurt-Vonnegut/dp/081297736X)</cite>
+> &mdash; <cite> Kurt Vonnegut, [_A Man Without a Country_](https://www.amazon.com/Man-Without-Country-Kurt-Vonnegut/dp/081297736X)</cite>
 
 The development process is kind of like evolution, no?  You make code edits little by little, version by version, until you have a fully-formed giraffe.  It may be awkward to look at, but it is standing and functional.  Maybe even beautiful.  
 
