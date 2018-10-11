@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p> Evolution is so creative. That's how we got giraffes.</p>  
+     <p><b> EVOLUTION IS SO CREATIVE. THAT'S HOW WE GOT GIRAFFES. </b></p>  
      <p>    - <i>Kurt Vonnegut</i> </p>
   header_text_feature_image: assets/img/giraffe-orange.jpg
   footer_text: >
