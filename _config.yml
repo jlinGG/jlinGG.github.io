@@ -14,18 +14,12 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p> 
-                   
-                     
-           
-               
+  Evolution is so creative. That's how we got giraffes. -Kurt Vonnegut    
      </p>
 
-     <p>
-             
-                    
-                      
+     <p>         
      </p>
-  header_text_feature_image: assets/img/giraffe.jpg
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
