@@ -6,7 +6,7 @@ url: "https://jlinGG.github.io/"
 theme_settings:
   # Meta
   title: Giraffa
-  avatar: assets/img/avatar.jpg
+  avatar: assets/img/giravatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
