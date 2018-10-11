@@ -13,12 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p> 
-  Evolution is so creative. That's how we got giraffes. -Kurt Vonnegut    
-     </p>
-
-     <p>         
-     </p>
+     <p> Evolution is so creative. That's how we got giraffes. -Kurt Vonnegut </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
@@ -32,7 +27,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "https://github.com/jlinGG"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -42,7 +37,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "@acupofJoanne"
   wordpress:
   youtube:
 
