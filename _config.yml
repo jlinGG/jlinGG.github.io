@@ -13,15 +13,17 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>
-     
-     
-     
+     <p> 
+                   
+                     
+           
+               
      </p>
 
      <p>
-     
-     
+             
+                    
+                      
      </p>
   header_text_feature_image: assets/img/giraffe.jpg
   footer_text: >
