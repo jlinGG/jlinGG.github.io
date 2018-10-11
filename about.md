@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/giraffe-sepia.jpg"
+feature-img: "assets/img/avatar.jpg"
 ---
 
 <h1>Hello World!</h1>
