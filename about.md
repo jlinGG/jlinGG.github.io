@@ -5,8 +5,9 @@ permalink: /about/
 feature-img: "assets/img/giraffe-sepia.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+<h1>Hello World!</h1>
+Welcome to my blog, where I write about the data things that I am doing and learning.  This is really just a reference for Future Joanne, but I'm happy you are here too.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+<H2>About Me</H2>
+I am a data scientist, currently based Washington, DC. I graduated from Thinkful's Data Science program in June 2018.  I love  utilizing data to find the truth, create solutions, and tell data-driven stories. I have an "untraditional" data science background, graduating from UC Berkeley with BAs in Public Health and Sociology, and later getting my Masters in Public Health.  In my free time, I enjoy knitting funky shawls and attempting minimalist nail art.
