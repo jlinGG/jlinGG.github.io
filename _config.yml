@@ -15,7 +15,7 @@ theme_settings:
   header_text: >
      <p><b> EVOLUTION IS SO CREATIVE. THAT'S HOW WE GOT GIRAFFES. </b></p>  
      <p><b>    - <i>Kurt Vonnegut</i> </b></p>
-  header_text_feature_image: assets/img/giraffe-pink.jpg
+  header_text_feature_image: assets/img/giraffe-orange.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
