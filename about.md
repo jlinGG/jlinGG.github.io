@@ -14,7 +14,9 @@ Welcome to my blog, where I write about the data things that I am doing and lear
 >
 > &mdash; <cite> Kurt Vonnegut, [_A Man Without a Country_](https://www.amazon.com/Man-Without-Country-Kurt-Vonnegut/dp/081297736X)</cite>
 
-The development process is kind of like evolution, no?  You make code edits little by little, version by version, until you have a fully-formed giraffe.  It may be awkward to look at, but it is standing and functional.  Maybe even beautiful.  
+The development process is kind of like evolution, no?  You make code edits little by little, version by version, until you have a fully-formed giraffe, with its weird horns (AKA ossicones) and long, purple tongues. It may be awkward to look at, but it is standing and functional.  Maybe even beautiful.  
+
+Anyway, here are [20 amazing facts](https://www.discoverwildlife.com/animal-facts/mammals/21-amazing-facts-about-giraffes-you-might-not-know/) about giraffes.
 
 <H2>About Me</H2>
 I am a data scientist, currently based Washington, DC. I graduated from Thinkful's Data Science program in June 2018.  I love  utilizing data to find the truth, create solutions, and tell data-driven stories. I have an "untraditional" data science background, graduating from UC Berkeley with BAs in Public Health and Sociology, and later getting my Masters in Public Health.  In my free time, I enjoy knitting funky shawls and attempting minimalist nail art.
