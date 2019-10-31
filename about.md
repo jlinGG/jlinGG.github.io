@@ -5,8 +5,8 @@ permalink: /about/
 feature-img: "assets/img/giraffe-purple.jpg"
 ---
 
-<h1>Hello World!</h1>
-Welcome to my blog, where I write about the data things that I am doing and learning.  This is really just a reference for Future Joanne, but I'm happy you are here too.
+<h1>Hello!</h1>
+Welcome to my website, where I write about the data things that I am doing and learning.  This is really just a reference for Future Joanne, but I'm happy you are here too.
 
 ### Why giraffes?
 
